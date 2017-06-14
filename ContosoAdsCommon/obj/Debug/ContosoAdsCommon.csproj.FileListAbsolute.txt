@@ -1,0 +1,10 @@
+D:\Work\RnD\AzureWebJobs\C#\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.dll.config
+D:\Work\RnD\AzureWebJobs\C#\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.dll
+D:\Work\RnD\AzureWebJobs\C#\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.pdb
+D:\Work\RnD\AzureWebJobs\C#\ContosoAdsCommon\bin\Debug\EntityFramework.dll
+D:\Work\RnD\AzureWebJobs\C#\ContosoAdsCommon\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\RnD\AzureWebJobs\C#\ContosoAdsCommon\bin\Debug\EntityFramework.xml
+D:\Work\RnD\AzureWebJobs\C#\ContosoAdsCommon\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\RnD\AzureWebJobs\C#\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.csprojResolveAssemblyReference.cache
+D:\Work\RnD\AzureWebJobs\C#\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.dll
+D:\Work\RnD\AzureWebJobs\C#\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.pdb
